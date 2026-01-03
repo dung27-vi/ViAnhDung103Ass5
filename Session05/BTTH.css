@@ -1,0 +1,23 @@
+body {
+    font-family:sans-serif;
+}
+
+.header {
+    background-color: rgb(79, 79, 234);
+    text-align: center;
+    color: white;
+}
+
+.title {
+}
+
+.slogan {
+}
+
+.main {
+}
+
+.heading {
+    font-size: 24px;
+    color: #0369a1;
+}
